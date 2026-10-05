@@ -1,0 +1,14 @@
+# Rebuilt from notes/INSTALL.md, not versioned
+sources/
+exe/
+# Raw data (downloaded by scripts/py/01_download_data.py)
+data/
+# Python virtual environment
+.loc/
+__pycache__/
+.ipynb_checkpoints/
+.claude/
+tasks/
+scratchpad_ex1/
+reference/
+environment.txt
